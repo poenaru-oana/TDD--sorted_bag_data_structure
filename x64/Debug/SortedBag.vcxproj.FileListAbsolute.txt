@@ -1,0 +1,2 @@
+D:\Alex's stuff\005 Scoala\UBB\ADS\SortedBag\x64\Debug\SortedBag.exe
+D:\Alex's stuff\005 Scoala\UBB\DSA\SortedBag\x64\Debug\SortedBag.exe
